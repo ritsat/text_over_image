@@ -1,15 +1,14 @@
 # text_over_image
 
-A new Flutter project.
+A Flutter project demonstrate how to add text over an image.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+You can refer below Youtube video for more details.
 
-A few resources to get you started if this is your first Flutter project:
+[![Show Text over an Image](https://img.youtube.com/vi/XoLml0_uU5I/0.jpg)](https://youtu.be/XoLml0_uU5I)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+
 
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
